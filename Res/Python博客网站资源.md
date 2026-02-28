@@ -16,7 +16,7 @@
 
 * **Python轻松入门**
 
-    网易云课程，Python 轻松入门
+    网易云课程，Python 轻松入门 commit and push test 2026/02/28
 
     传送门： [官方地址](https://study.163.com/course/introduction.htm?courseId=1003655001&utm_campaign=share&utm_content=courseIntro&utm_medium=iphoneShare&utm_source=weixing)
 
